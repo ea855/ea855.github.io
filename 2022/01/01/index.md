@@ -1,4 +1,4 @@
-# 2022-01-01 The first day
+## 2022-01-01 The first day
 
 Hey, this public journal starts with this first page. I am a CS student wanting to be the best I can be.
 
