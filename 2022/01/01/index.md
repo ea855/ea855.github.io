@@ -1,3 +1,5 @@
+# 2022-01-01 The first day
+
 Hey, this public journal starts with this first page. I am a CS student wanting to be the best I can be.
 
 I want to use this to force me to do the things I plan to do. In the past year I procrastinated a lot and that needs to stop.
